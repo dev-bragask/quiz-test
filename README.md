@@ -4,6 +4,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="#-futuras-implementacoes">Futuras Implementações</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
 </p>
 <p align="center">
@@ -32,6 +33,14 @@ npm install
 ```
 npx expo start
 ```
+## 🦾 Futuras Implementações 
+O Quiz foi desenvolvido considerando as limitações atuais, especialmente a ausência de um backend. Abaixo estão tarefas para futuras implementações que poderiam melhorar e expandir o projeto:
+
+
+[ ] Implementação do armazenamento local para salvar as respostas dos usuários.</br>
+[ ] Desenvolver funcionalidade para rastrear e exibir o progresso do usuário no quiz.</br>
+[ ] Avaliar a viabilidade e implementar um backend.</br>
+[ ] Adicionar e criar testes automatizados para garantir a estabilidade contínua do aplicativo.
 
 ## 📄 Licença
 
